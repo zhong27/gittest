@@ -1,0 +1,6 @@
+this is a git test file
+let's go!
+first, we can edit the file
+second, add the spaceplace
+and then, commit locate repository
+finally, push internet repository

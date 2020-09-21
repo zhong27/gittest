@@ -1,0 +1,5 @@
+使用远程连接进行本地仓库的上传：
+步骤如此下：
+	1.首先使用命令:git remote add origin git@github.com:zhong27/gittset.git将本地仓库和远程仓库建立连接。
+	注：zhong27为git账号，gittest为仓库名称
+	2.使用命令进行关联之后，接下来进行的本地仓库推送到远程仓库，使用命令：git push -u origin master 来推送本地仓库
